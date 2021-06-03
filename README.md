@@ -23,3 +23,8 @@ onkeydown = async (e) => {
 https://user-images.githubusercontent.com/1715217/120721862-aba49680-c509-11eb-908a-e172a2fd3b5a.mp4
 
 https://taisukef.github.io/qrdots/  
+
+## dependency
+- [html2canvas](https://github.com/taisukef/html2canvas/)
+- [h264-mp4-encoder](https://github.com/taisukef/h264-mp4-encoder.es/)
+- [GIFEncoder](https://github.com/taisukef/gifencoder/)
